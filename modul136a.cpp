@@ -7,6 +7,7 @@
  using namespace std;   
 
 ///комментарий
+ //
 
 /// вывод массива в файл
 void printArrayToFile(float* array, unsigned size, const string  &NameF){
